@@ -5,7 +5,6 @@ from Tkinter import *
 import s3
 import HyperlinkManager
 import connection
-import CheckBoxManager
 from gs import GSOperations
 from s3 import S3Operations
 from ListObject_gui import *

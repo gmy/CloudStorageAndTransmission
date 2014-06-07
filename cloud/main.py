@@ -1,11 +1,5 @@
 __author__ = 'gumengyuan'
 
-import gs_create_bucket
-import gs_list_bucket
-import gs_list_object
-import gs_delete_object
-import gs_upload_object
-import gs_download_object
 
 from main_gui import MainView
 from gs import GSOperations
